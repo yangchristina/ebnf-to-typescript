@@ -14,9 +14,9 @@
   "contributes": {
     "commands": [
       {
-        "command": "ebnf-to-typescript.helloWorld",
-        "title": "Hello World"
-      }
+        "command": "extension.convertEBNFToTypescript",
+        "title": "Convert EBNF To Typescript"
+    }
     ]
   },
   "scripts": {
